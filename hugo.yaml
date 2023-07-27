@@ -73,8 +73,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider: disqus
+        enabled: true
+        provider: cactus
 
         disqusjs:
             shortname:
@@ -94,12 +94,12 @@ params:
             locale:
 
         vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
+            platform: gitea
+            owner: expes-hosting
+            repo: florian-staubach.de
+            clientId: $GITEA_CLIENT_ID
+            clientSecret: $GITEA_SECRET
+            autoCreateIssue: true
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
@@ -126,7 +126,7 @@ params:
         cactus:
             defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
             serverName: "cactus.chat"
-            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+            siteName: "florian-staubach.de" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
             repo:
