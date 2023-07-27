@@ -11,6 +11,7 @@ menu:
         weight: -90
         params:
             icon: user-question
+comments: false
 ---
 
 My name is Florian and I am an Information Security Consultant at Commerzbank in Frankfurt and a self-employed IT consultant.

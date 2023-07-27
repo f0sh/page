@@ -50,8 +50,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: replace credentials
-        run: envsubst < hugo.yaml > hugo.yaml
+      # - name: replace credentials
+      #   run: envsubst < hugo.yaml > hugo.yaml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules

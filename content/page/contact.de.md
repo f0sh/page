@@ -1,6 +1,6 @@
 ---
-title: Contact
-description: How to get in contact with me
+title: Kontakt
+description: Wie man mich kontaktieren kann
 date: 2023-07-26
 toc: false
 # image: /images/contact.jpg

@@ -10,6 +10,7 @@ menu:
         weight: -90
         params:
             icon: user-question
+comments: false
 ---
 
 Mein Name ist Florian und ich bin Information Security Consultant in der Commerzbank in Frankfurt und selbstständiger IT-Berater.

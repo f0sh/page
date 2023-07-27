@@ -8,9 +8,9 @@ languages:
         languageName: English
         languageCode: en
         title: Florian Staubach
-        description: My personal page
         weight: 1
         params:
+            description: My personal page
             dateFormat:
                 published: Jan 02, 2006
                 lastUpdated: Jan 02, 2006 15:04 MST
@@ -18,9 +18,9 @@ languages:
         languageName: Deutsch
         languageCode: de
         title: Florian Staubach
-        description: Meine private Webseite
         weight: 2
         params:
+            description: Meine private Webseite
             dateFormat:
                 published: 02. Jan 2006
                 lastUpdated: 02. Jan 2006 15:04 MST
