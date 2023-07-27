@@ -32,6 +32,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.114.0
+      GITEA_SECRET: ${{ secrets.GITEA_SECRET }}
+      GITEA_CLIENT_ID: ${{ secrets.GITEA_CLIENT_ID }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -48,6 +50,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: replace credentials
+        run: envsubst < hugo.yaml > hugo.yaml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
