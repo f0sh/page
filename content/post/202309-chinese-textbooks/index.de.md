@@ -64,7 +64,7 @@ Das Buch ist so weit verbreitet, dass man in den einschlägigen Tauschbörsen au
 
 {{< figure src="images/DC.jpg" title="Textbuchserie: Entdecke China" width="600px" attr="mydiscoverchina.com" >}}
 
-[Discover China](https://www.mydiscoverchina.com/components/) ist ein neueres Lehrbuch aus dem [Macmillan Verlag](https://www.springernature.com/gp/macmillaneducation), der inzwischen zu Springer gehört. Insgesamt besteht die Reihe aus vier Büchern mit 48 Lektionen auf die man ebenfalls auf das HSK6 Level kommt und verwendet ebenfalls moderneres Vokabular. Auch hier gibt es in jeder Lektion zwei Lektionstexte zum Hören und Lesen dazu Grammatikeinführungen und Übungen sowie ein arbeitsbuch mit weiteren Übungen. __*Das Buch gibt es ebenfalls auf Deutsch.*__
+[Discover China](https://www.mydiscoverchina.com/components/) ist ein neueres Lehrbuch aus dem [Macmillan Verlag](https://www.springernature.com/gp/macmillaneducation), der inzwischen zu Springer gehört. Insgesamt besteht die Reihe aus vier Büchern mit 48 Lektionen auf die man etwa auf das Level HSK 4-5 kommt und verwendet ebenfalls moderneres Vokabular. Auch hier gibt es in jeder Lektion zwei Lektionstexte zum Hören und Lesen dazu Grammatikeinführungen und Übungen sowie ein arbeitsbuch mit weiteren Übungen. __*Das Buch gibt es ebenfalls auf Deutsch.*__
 
 > - [Audio Dateien für Lehr- und Arbeitsbuch](https://www.mydiscoverchina.com/resources/mp3-audio-files-of-discover-china-students-books-and-workbooks/)
 > - Schriftzeichen für TOFU Learn: [Buch 1](https://www.tofulearn.com/wordlist/china-entdecken-lehrbuch-1-schriftzeichen-600a113fa7ea805f0979edf4/wordlist), [Buch 2](https://www.tofulearn.com/my/wordlist/china-entdecken-lehrbuch-2-schriftzeichen-600a116fa7ea805f0979f149/deck), [Buch 3](https://www.tofulearn.com/my/wordlist/china-entdecken-lehrbuch-3-schriftzeichen-600a277ea7ea805f097a319b/deck)
@@ -76,11 +76,9 @@ Das Buch ist so weit verbreitet, dass man in den einschlägigen Tauschbörsen au
 
 Der [HSK Standard Course](https://www.blcup.com/EnSeriesBook/index/8) ist ebenfalls von der [BLCU](https://www.blcup.com/) herausgebracht worden. Wie der Name der Reihe vermuten lässt, versucht dieses Lehrbuch direkt auf den HSK Test vorzubereiten. Es gibt insgesamt 9 Lehrbücher in der Reihe, da die Bücher zu HSK4-6 auf Grund der proportionell zunehmenden Menge an Vokabeln und Grammatik der HSK Tests in jeweils zwei Bücher unterteilt sind.
 
-> - [Audo Dateien und weitere Materialien für das Lehr- und Arbeitsbuch](https://www.blcup.com/EnSeriesBook/index/8)
+> - [Audio Dateien und weitere Materialien für das Lehr- und Arbeitsbuch](https://www.blcup.com/EnSeriesBook/index/8)
 > - [Anki Deck aller Vokabeln (inkl. Schreiben)](https://ankiweb.net/shared/info/119943820)
 > - Schriftzeichen für TOFU Learn: [HSK1](https://www.tofulearn.com/my/wordlist/hsk-1-standard-course-6007d583a7ea805f09761cb5/wordlist), [HSK2](https://www.tofulearn.com/my/wordlist/hsk-2-standard-course-5f511fddbecf79386296a3a8/wordlist), [HSK3](https://www.tofulearn.com/my/wordlist/hsk-3-standard-chinese-5face384d7a5ac33e0b18db8/wordlist), [HSK4上](https://www.tofulearn.com/my/wordlist/chinese-link-level-1-5f4d5c25becf79386291f3b1/wordlist)
-
-**Integrated Chinese**
 
 
 ### Traditionelle Zeichen
@@ -121,7 +119,6 @@ Neben dem eigentlichen Lehrbuch gibt es noch weitere, dazu passende Bücher vom 
 
 - [A to Z Grammar for Chinese Language Learners](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
 - [Ultimate Illustrated Grammar Guide](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
-- Schriftzeichen 1 & 2
 - [Ultimate Guide to Chinese Vocabulary & TOCFL](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html) zur Vorbereitung auf TOCFL A2, B1, B2
 
 Am Ende von Band 4 kann man sich auch entscheiden mehr themenbezogen mit den zwei folgenden Serien zu lernen:

@@ -4,7 +4,7 @@ description: "There are lots of tips on the internet about chinese textbooks and
 date: 2023-09-08T20:46:34+08:00
 lastmod: 2023-09-08T20:46:34+08:00
 publishDate: 2024-01-14T20:46:33+08:00
-toc: true
+toc: false
 image: images/textbooks.jpg
 slug: chinese-textbooks
 aliases:
@@ -49,10 +49,6 @@ In the following, I would like to present a few very good textbooks, which, with
 
 ### Simplified characters
 
-
-
-
-
 **New Practical Chinese Reader**
 
 {{< figure src="images/NPCR.jpg" title="Textbook series: New Practical Chinese Reader" width="400px" attr="" >}}
@@ -67,7 +63,7 @@ The book is so widely used that you can also find corresponding PDFs on the rele
 
 {{< figure src="images/DC.jpg" title="Textbook series: Discover China" width="600px" attr="mydiscoverchina.com" >}}
 
-[Discover China](https://www.mydiscoverchina.com/components/) is a newer textbook from [Macmillan Publishing](https://www.springernature.com/gp/macmillaneducation), which is now owned by Springer. In total, the series consists of four books with 48 lessons, which also reach HSK6 level and also use more modern vocabulary. Here, too, there are two lesson texts for listening and reading in each lesson, plus grammar introductions and exercises as well as a workbook with further exercises. The book is also available in German.
+[Discover China](https://www.mydiscoverchina.com/components/) is a newer textbook from [Macmillan Publishing](https://www.springernature.com/gp/macmillaneducation), which is now owned by Springer. In total, the series consists of four books with 48 lessons, which reach a level of HSK 4-5 and also use more modern vocabulary. Here, too, there are two lesson texts for listening and reading in each lesson, plus grammar introductions and exercises as well as a workbook with further exercises. The book is also available in German.
 
 > - [Audio Files for Text- and Workbook](https://www.mydiscoverchina.com/resources/mp3-audio-files-of-discover-china-students-books-and-workbooks/)
 > - Character Writing for TOFU Learn: [Buch 1](https://www.tofulearn.com/wordlist/china-entdecken-lehrbuch-1-schriftzeichen-600a113fa7ea805f0979edf4/wordlist), [Buch 2](https://www.tofulearn.com/my/wordlist/china-entdecken-lehrbuch-2-schriftzeichen-600a116fa7ea805f0979f149/deck), [Buch 3](https://www.tofulearn.com/my/wordlist/china-entdecken-lehrbuch-3-schriftzeichen-600a277ea7ea805f097a319b/deck)
@@ -118,15 +114,14 @@ The textbook [A Course in Contemporary Chinese](http://www.mtc.ntnu.edu.tw/eng/b
 
 In addition to the actual textbook, there are other books from the same publisher that can support learning and round off the learning programme perfectly.
 
-- A to Z Grammar for Chinese Language Learners](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
-- Ultimate Illustrated Grammar Guide](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
-- Characters 1 & 2
-- Ultimate Guide to Chinese Vocabulary & TOCFL](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html) to prepare for TOCFL A2, B1, B2
+- [A to Z Grammar for Chinese Language Learners](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
+- [Ultimate Illustrated Grammar Guide](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html)
+- [Ultimate Guide to Chinese Vocabulary & TOCFL](http://www.mtc.ntnu.edu.tw/eng/book/book-show-2.html) to prepare for TOCFL A2, B1, B2
 
 At the end of volume 4, you can also choose to learn more topic-related with the following two series:
 
 - [Advanced Business Chinese 1 & 2](http://www.mtc.ntnu.edu.tw/eng/book/book-show-9.html)
-- Reading in Chinese Newspapers 1 & 2](http://www.mtc.ntnu.edu.tw/eng/book/book-show-17.html)
+- [Reading in Chinese Newspapers 1 & 2](http://www.mtc.ntnu.edu.tw/eng/book/book-show-17.html)
 
 **Practical Audiovisual Chinese** 
 
@@ -142,6 +137,7 @@ At the end of volume 4, you can also choose to learn more topic-related with the
 ### Summary
 
 Of course there is much, much more. However, I have deliberately limited myself to the books that I have already used myself and that I know are used professionally in language schools in both the People's Republic of China and Taiwan. In addition, these books can be used without a teacher and are therefore also suitable for self-study. With the textbooks *Modern Chinese* and *A Course in Contemporary Chinese* in particular, I am very convinced that the structure of the books makes effective learning possible, as they have been carefully compiled to build on each other. This would also be my recommendation to use one of these two books, even if you want to learn simplified Chinese.
+
 
 [^1]: Chinese language test in the People's Republic of China
 [^2]: Chinese language test in the Republic of China on Taiwan

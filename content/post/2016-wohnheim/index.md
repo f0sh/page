@@ -2,6 +2,7 @@
 title: Student Residence Emanuel-von-Ketteler e.V.
 description: Since 2014, I have been living in the Emanuel-von-Ketteler student residence, where 43 students from different backgrounds, religious affiliations, disciplines and interests live together.
 date: 2016-04-01
+lastmod: 2019-05-01
 draft: false
 image: images/wohnheim_1.jpg
 slug: emanuel-von-ketteler

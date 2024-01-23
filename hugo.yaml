@@ -27,6 +27,21 @@ languages:
             sidebar:
                 subtitle: Das ist meine persönliche Webseite wo ich hin und wieder einen Artikel hochlade und meine Gedanken teile. 
 
+    cn:
+        languageName: 中文
+        languageCode: cn
+        weight: 0
+        params:
+            disabled: true
+
+    vn:
+        languageName: Tiếng Việt
+        languageCode: vn
+        weight: 0
+        params:
+            disabled: true
+        
+
 # Change it to your Disqus shortname before using
 # disqusShortname: hugo-theme-stack
 
@@ -242,7 +257,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true

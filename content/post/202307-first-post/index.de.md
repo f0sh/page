@@ -14,5 +14,10 @@ Meine alte Webseite ist aus Sommer 2013 und feiert dieses Jahr 10 jähriges Jubi
 
 ## Neuer Techstack
 
- - Static Site Generator: Hugo
- - Theme: hugo-theme-stack
+Zeiten ändern sich. Wordpress ist fast überall der de-facto Standard und Website-Generatoren wie Wix machen es auch Nicht-Techies leicht, Websites zu erstellen. Der Betrieb dynamischer Content Management Systeme ist jedoch fehleranfällig und bietet Angreifern eine Fläche. Wenn man nicht viel Zeit für die Pflege einer Website hat, sind statische Websites sinnvoll, da sie weniger Zeit für die Pflege benötigen und eben keine große Angriffsläche bieten. Da ich in letzter Zeit auch ein bisschen mit der Programmiersprache Go herumspiele, wollte ich Hugo mal ausprobieren, um zu sehen, wie gut der Workflow mit Github Actions in der Praxis funktioniert.
+
+Mein Techstack ist daher sehr einfach:
+
+- Hosting: Github Pages, Github Actions für Workflow 
+- Static Site Generator: Hugo
+- Theme: hugo-theme-stack

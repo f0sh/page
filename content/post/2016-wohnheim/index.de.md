@@ -2,6 +2,7 @@
 title: Studentenwohnheim Emanuel-von-Ketteler e.V.
 description: Seit 2014 lebe ich im Studentenwohnheim Emanuel-von-Ketteler, in dem 43 Studentinnen und Studenten verschiedener Herkunft, Religionszugehörigkeiten, Fachrichtungen und Interessen miteinander leben.
 date: 2016-04-01
+lastmod: 2019-05-01
 draft: false
 image: images/wohnheim_1.jpg
 slug: emanuel-von-ketteler

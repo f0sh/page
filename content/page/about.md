@@ -14,7 +14,7 @@ menu:
 comments: false
 ---
 
-My name is Florian and I am an Information Security Consultant at Commerzbank in Frankfurt and a self-employed IT consultant.
+My name is Florian and I am an former Information Security Consultant at Commerzbank in Frankfurt and a self-employed IT consultant.
 
 On these pages you will find some information about me and my work. Furthermore, you will find my CV and contact details. You will also find some of my projects, which I initiated during my time as a student of business informatics at the Technical University in Darmstadt.
 
