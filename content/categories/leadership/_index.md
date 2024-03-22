@@ -6,4 +6,5 @@ image: leadership.jpg
 style:
     background: "#0177b8"
     color: "#fff"
+    class: leadership
 ---
