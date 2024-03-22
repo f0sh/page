@@ -3,25 +3,25 @@
 
 }
 
-.category-design { 
+.category {
+
     color: #fff;
-    background-color: #df7988;
-}
-.category-economics { 
-    color: #fff;
-    background-color: #8ea885;
-}
-.category-leadership { 
-    color: #fff;
-    background-color: #0177b8;
-}
-.category-private { 
-    color: #fff;
-    background-color: #DB344B;
-}
-.category-tech { 
-    color: #fff;
-    background-color: #2a9d8f;
+    
+    &-design { 
+        background-color: #df7988;
+    }
+    &-economics { 
+        background-color: #8ea885;
+    }
+    &-leadership { 
+        background-color: #0177b8;
+    }
+    &-private { 
+        background-color: #DB344B;
+    }
+    &-tech { 
+        background-color: #2a9d8f;
+    }
 }
 
 section.copyright a {
