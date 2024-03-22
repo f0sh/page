@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.114.0
+      HUGO_VERSION: 0.124.0
       GITEA_SECRET: ${{ secrets.GITEA_SECRET }}
       GITEA_CLIENT_ID: ${{ secrets.GITEA_CLIENT_ID }}
     steps:

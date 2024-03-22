@@ -1,11 +1,10 @@
 ---
 title: About me
-date: 2005-07-26
-lastmod: 2023-07-26
+date: 2005-07-26T20:46:33+08:00
+lastmod: 2023-07-26T20:46:33+08:00
 toc: false
 aliases:
   - about-me
-lastmod: 2023-07-26
 menu:
     main: 
         weight: -90
