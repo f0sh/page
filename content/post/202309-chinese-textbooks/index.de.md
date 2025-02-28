@@ -4,7 +4,7 @@ description: "Im Internet gibt es viele Tipps zu Büchern und Lernmaterialen, di
 date: 2023-09-08T20:46:33+08:00
 lastmod: 2023-09-08T20:46:33+08:00
 publishDate: 2024-01-14T20:46:33+08:00
-toc: false
+toc: true
 image: images/textbooks.jpg
 slug: chinesische-lehrbuecher
 aliases:

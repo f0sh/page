@@ -4,7 +4,7 @@ description: "There are lots of tips on the internet about chinese textbooks and
 date: 2023-09-08T20:46:34+08:00
 lastmod: 2023-09-08T20:46:34+08:00
 publishDate: 2024-01-14T20:46:33+08:00
-toc: false
+toc: true
 image: images/textbooks.jpg
 slug: chinese-textbooks
 aliases:
