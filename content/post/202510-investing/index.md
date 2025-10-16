@@ -1,7 +1,7 @@
 ---
 title: "Investing in Exchange Traded Funds (ETFs)"
 description: |
-    In a year marked by economic uncertainty, shifting market dynamics, and persistent inflation, one investment strategy continues to stand out for everyday savers and for which I want to introduce my research: Exchange-Traded Funds (ETFs).
+    In a year marked by economic uncertainty, shifting market dynamics, and persistent inflation, one investment strategy continues to stand out for everyday savers and for which I want to introduce some research: Exchange-Traded Funds (ETFs).
 date: 2025-09-05
 lastmod: 2025-10-13
 draft: false

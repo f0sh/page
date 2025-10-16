@@ -1,7 +1,7 @@
 ---
 title: "In ETFs investieren"
 description: |
-    In einem Jahr, das von wirtschaftlicher Unsicherheit, sich verändernden Marktdynamiken und anhaltender Inflation geprägt ist, gibt es eine Anlagestrategie, die für Privatanleger weiterhin herausragend ist und die ich Ihnen anhand meiner Forschungsergebnisse vorstellen möchte: Exchange-Traded Funds (ETFs).
+    In Zeiten von wirtschaftlicher Unsicherheit, sich verändernden Marktdynamiken und anhaltender Inflation, gibt es eine Anlagestrategien, die große Aufmerksamkeit bekommen und es sicht lohnt einmal genauer hinzuschauen: Exchange-Traded Funds (ETFs).
 date: 2025-09-05
 lastmod: 2025-10-13
 draft: false
@@ -33,7 +33,7 @@ Ich beschäftige mich mit ETFs, seit ich im Finanzsektor arbeite. Ich war ein B�
 
 #### Geschichte des Dow Jones
 
-Der [Dow Jones Industrial Average (DJIA)](https://de.wikipedia.org/wiki/Dow_Jones_Industrial_Average) – oft einfach nur „der Dow” genannt – ist einer der bekanntesten Indikatoren für die Entwicklung des Aktienmarktes in den Vereinigten Staaten. Man kann ihn sich wie eine Anzeigetafel für die Wirtschaft vorstellen. Er verfolgt die Aktienkurse von 30 großen Unternehmen, die in Branchen wie Technologie, Finanzen, Gesundheitswesen und Konsumgüter in den Vereinigten Staaten führend sind. Da er nur 30 Unternehmen umfasst, repräsentiert er nicht den gesamten Aktienmarkt und kann nicht den gesamten Markt vollständig erklären. Ein Vorteil des Dow Jones ist jedoch, dass er die Marktentwicklung seit 1896 verfolgt und uns somit einen guten Einblick in die Geschichte gibt.
+Der [Dow Jones Industrial Average (DJIA)](https://de.wikipedia.org/wiki/Dow_Jones_Industrial_Average) – oft einfach nur „der Dow” genannt – ist einer der bekanntesten Indikatoren für die Entwicklung des Aktienmarktes in den Vereinigten Staaten. Man kann ihn sich wie eine Anzeigetafel für die Wirtschaft vorstellen. Er verfolgt die Aktienkurse von 30 großen Unternehmen, die in Branchen wie Technologie, Finanzen, Gesundheitswesen und Konsumgüter führend sind. Da er nur 30 Unternehmen umfasst, repräsentiert er nicht den gesamten Aktienmarkt und ihn kann auch nicht vollständigen erklären. Ein Vorteil des Dow Jones ist jedoch, dass er die Marktentwicklung lange - und zwar seit 1896 - verfolgt und uns somit einen guten Einblick in die Geschichte gibt.
 
 {{< figure src="images/dowjones-history.svg" title="Geschichte bei der Betrachtung der Performance des Dow Jones" attr="" >}}
 
@@ -47,11 +47,11 @@ Wie wir sehen können, lassen sich hier einige sehr wichtige Marktereignisse erk
 
 #### Risikobewusstsein
 
-Wir können nun einen genaueren Einblick darin gewinnen, wie sich diese Krisen auf den Aktienmarkt ausgewirkt haben, indem wir den maximalen Rückgang gegenüber dem Allzeithoch betrachten.
+Wir können nun einen genaueren Einblick darin gewinnen, wie sich diese Krisen auf den Aktienmarkt ausgewirkt haben, indem wir den maximalen Werteverlust gegenüber dem Allzeithoch betrachten.
 
 {{< figure src="images/dowjones-max_drawdown.svg" title="Maximaler Rückgang gegenüber dem Allzeithoch des Dow Jones" attr="" >}}
 
-Wir sehen, dass die schwerwiegendsten Auswirkungen auf den Finanzmarkt durch den **Beginn des Zweiten Weltkriegs** verursacht wurden, der zu einem Einbruch des Marktes um fast 90 % führte. Alle anderen folgenden Krisen hatten „nur” Auswirkungen von bis zu 50 %. Am schwerwiegendsten war die Finanzkrise mit 48 %. Die Corona-Pandemie und das Platzen der Dotcom-Blase waren mit einem Rückgang von bis zu 30 % vergleichsweise gering. Dennoch erholte sich der Markt immer wieder. Dies wird besonders deutlich, wenn wir uns die rollierenden Jahreserträge nach 10 Jahren Investition ansehen.
+Wir sehen, dass die schwerwiegendsten Auswirkungen auf den Finanzmarkt durch den **Beginn des Zweiten Weltkriegs** verursacht wurden, der zu einem Einbruch des Marktes um fast 90 % führte. Es dauert 25 Jahre, bis dieser Verlust wieder ausgeglichen werden konnte. Alle anderen folgenden Krisen hatten „nur” Auswirkungen von bis zu 50 %. Am schwerwiegendsten war die Finanzkrise mit 48 %. Die Corona-Pandemie und das Platzen der Dotcom-Blase waren mit einem Rückgang von bis zu 30 % vergleichsweise gering. Dennoch erholte sich der Markt immer wieder. Dies wird besonders deutlich, wenn wir uns die rollierenden Jahreserträge nach 10 Jahren Investition ansehen.
 
 #### Langfristig ist die Entwicklung positiv
 
@@ -82,13 +82,13 @@ Hier kann uns der **MSCI World** helfen. Der [MSCI World Index](https://www.msci
 
 {{< figure src="images/msci-world-rolling_revenue_10.svg" title="Rollierender Rendite nach 10 Jahren Investition in den MSCI World Index" attr="" >}}
 
-Wir werden also auch untersuchen, wie hoch der Jahresertrag gewesen wäre, wenn man an einem beliebigen Tag investiert und die Anlage 10 Jahre lang gehalten hätte. Wir sehen, dass es nur einen einzigen ungünstigen Zeitpunkt für den Einstieg in den MSCI World gegeben hat, nämlich unmittelbar vor dem Platzen der Dotcom-Blase. Wenn man zu diesem Zeitpunkt investiert hätte, gäbe es selbst nach 10 Jahren keinen Gewinn.
+Wenn man sicht also berechnet, wie hoch der Jahresertrag gewesen wäre, wenn man an einem beliebigen Tag investiert und die Anlage 10 Jahre lang gehalten hätte, sehen wir, dass es nur einen einzigen ungünstigen Zeitpunkt für den Einstieg in den MSCI World gegeben hat - nämlich unmittelbar vor dem Platzen der Dotcom-Blase. Wenn man also dem Hype zu diesem Zeitpunkt unterlegen wäre und investiert hätte, gäbe es selbst nach 10 Jahren keinen Gewinn, sondern nur Verlust.
 
-In allen anderen Fällen hätte eine Investition in den MSCI World und ein Halten der Anlage über 10 Jahre einen jährlichen Ertrag von bis zu 16 % p. a. eingebracht. Im Durchschnitt aller Zeiträume hätten man jedes Jahr 7 % erzielt.
+In allen anderen Fällen hätte eine Investition in den MSCI World und ein Halten der Anlage über 10 Jahre einen jährlichen Ertrag von bis zu 16% p.a. eingebracht. Im Durchschnitt aller Zeiträume hätte man jedes Jahr 7% erzielt.
 
 {{< figure src="images/msci-world-rolling_revenue_20.svg" title="Rollierender Rendite nach 20 Jahren Investition in den MSCI World Index" attr="" >}}
 
-Schauen wir uns einmal an, wie sich die Situation verändert, wenn man den Vermögenswert statt 10 Jahre lang 20 Jahre lang hält. Wir sehen, dass man selbst wenn man kurz vor dem Platzen der Dotcom-Blase investiert hätte, immer noch 1 % Ertrag pro Jahr erhalten hätte. Und im Durchschnitt wären fast 7 % auf das Konto geflossen, wenn man zu einem beliebigen Zeitpunkt investiert und den Vermögenswert 20 Jahre lang gehalten hätte.
+Schauen wir uns einmal an, wie sich die Situation verändert, wenn man den Vermögenswert statt 10 Jahre lang 20 Jahre lang hält. Wir sehen, dass man selbst wenn man kurz vor dem Platzen der Dotcom-Blase investiert hätte, immer noch 1% Ertrag pro Jahr erhalten hätte. Und im Durchschnitt wären fast 7% auf das Konto geflossen, wenn man zu einem beliebigen Zeitpunkt investiert und den Vermögenswert 20 Jahre lang gehalten hätte.
 
 ### Fazit
 
