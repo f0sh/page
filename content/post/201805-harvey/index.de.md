@@ -9,6 +9,7 @@ categories:
     - leadership
     - tech
     - private
+# {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 ---
 
 Harvey ist smartes Pflanzenbeet, welches die automatische Bewässerung und Belichtung der Pflanze ermöglicht. Dabei erhält der Nutzer Hinweise zur Pflege und zum Status des Systems mit Hilfe der Smartphone App. Darüber kann der Nutzer alle Einstellungen vornehmen und sich ebenfalls Erweiterungen und Verbrauchsmaterialien für seine Pflanze nachkaufen. Ein Harvey verbindet sich dabei mit dem im Haus verfügbaren WLAN und lässt sich so von überall fernsteuern.
@@ -25,8 +26,9 @@ In dieser Zeit habe ich mich intensiv mit den Themen
 * Entwicklung von Platinen und Programmieren von Mikrocontrollern für IoT
 * beschäftigt.
 
-Die Startup-Idee ist zur Zeit mangels Zeit der Teammitglieder pausiert.
+*Die Startup-Idee ist zur Zeit mangels Zeit der Teammitglieder pausiert.*
 
-Weitere Informationen unter [harvey.garden](http://www.harvey.garden).
-
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+![Erster Prototyp von Harvey inkl. Platine und App](images/version_1.png)
+![Arbeiten nach agilem Vorgehen (Scrum)](images/harvey_1.jpg)
+![Verwendung von additiven Fertigungsverfahren](images/harvey_2.jpg)
+![Harvey im Kücheneinsatz](images/harvey_kitchen.jpg)
