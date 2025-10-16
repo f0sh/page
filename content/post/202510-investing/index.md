@@ -80,6 +80,10 @@ Similar as for the Dow Jones, we will see, that the MSCI World Index has similar
 
 #### The long run is positive
 
+{{< figure src="images/msci-world-rolling_revenue_5.svg" title="Rolling yearly revenue after 5 years of investing into MSCI World Index" attr="" >}}
+
+In order to make statements about long-term investments, let's take a look at the rolling return over 5 years.
+
 {{< figure src="images/msci-world-rolling_revenue_10.svg" title="Rolling yearly revenue after 10 years of investing into MSCI World Index" attr="" >}}
 
 So we will also look at, how your yearly revenue would have been, if you would have invested on any day and hold the asset for 10 years. We see, that there as been only one bad time, to start investing into the MSCI World, which would have been directly before the dotcom bubble bursted. If you did, even after 10 years, you would have not made any profit.

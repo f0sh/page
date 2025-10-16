@@ -80,9 +80,13 @@ Hier kann uns der **MSCI World** helfen. Der [MSCI World Index](https://www.msci
 
 #### Langfristig ist die Entwicklung positiv
 
-{{< figure src="images/msci-world-rolling_revenue_10.svg" title="Rollierender Rendite nach 10 Jahren Investition in den MSCI World Index" attr="" >}}
+Um Aussagen über langfristige Investments machen zu können, schauen wir uns einmal die rollierende Rendite über 5 Jahre an.
+
+{{< figure src="images/msci-world-rolling_revenue_5.svg" title="Rollierender Rendite nach 5 Jahren Investition in den MSCI World Index" attr="" >}}
 
 Wenn man sicht also berechnet, wie hoch der Jahresertrag gewesen wäre, wenn man an einem beliebigen Tag investiert und die Anlage 10 Jahre lang gehalten hätte, sehen wir, dass es nur einen einzigen ungünstigen Zeitpunkt für den Einstieg in den MSCI World gegeben hat - nämlich unmittelbar vor dem Platzen der Dotcom-Blase. Wenn man also dem Hype zu diesem Zeitpunkt unterlegen wäre und investiert hätte, gäbe es selbst nach 10 Jahren keinen Gewinn, sondern nur Verlust.
+
+{{< figure src="images/msci-world-rolling_revenue_10.svg" title="Rollierender Rendite nach 10 Jahren Investition in den MSCI World Index" attr="" >}}
 
 In allen anderen Fällen hätte eine Investition in den MSCI World und ein Halten der Anlage über 10 Jahre einen jährlichen Ertrag von bis zu 16% p.a. eingebracht. Im Durchschnitt aller Zeiträume hätte man jedes Jahr 7% erzielt.
 
@@ -100,3 +104,8 @@ Es ist auch sinnvoll, sich nicht nur auf die Finanzmärkte der Industrieländer 
 > Dies ist keine Anlageberatung.
 
 Letztendlich müssen wir all diese Erkenntnisse in ein Finanzprodukt einfließen lassen und mit dem Investieren beginnen. Ich persönlich empfehle und nutze gerne den [Vanguard FTSE All-World ETF](https://www.de.vanguard/private-anleger/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating), da er eine genossenschaftliche Rechtsform hat und auf einfache Weise alle zuvor in diesem Beitrag genannten Aspekte abdeckt. Es ist jedoch jedes andere ETF-Finanzprodukt geeignet, das denselben Grundsätzen folgt.
+
+<!-- ![MSCI World: Rollierende Rendite 1 Jahr](images/msci-world-rolling_revenue_1.png)
+![MSCI World: Rollierende Rendite 5 Jahre](images/msci-world-rolling_revenue_5.png)
+![MSCI World: Rollierende Rendite 10 Jahre](images/msci-world-rolling_revenue_10.png)
+![MSCI World: Rollierende Rendite 20 Jahre](images/msci-world-rolling_revenue_20.png) -->
