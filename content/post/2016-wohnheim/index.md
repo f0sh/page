@@ -2,7 +2,7 @@
 title: Student Residence Emanuel-von-Ketteler e.V.
 description: Since 2014, I have been living in the Emanuel-von-Ketteler student residence, where 43 students from different backgrounds, religious affiliations, disciplines and interests live together.
 date: 2016-04-01T20:46:33+08:00
-lastmod: 2019-05-01T20:46:33+08:00
+lastmod: 2025-02-01T20:46:33+08:00
 draft: false
 image: images/wohnheim_1.jpg
 slug: emanuel-von-ketteler
@@ -35,6 +35,11 @@ Some of the projects I was able to implement in this residence were:
 - Setting up and maintaining the social media presence
 
 Further information at https://www.ketteler-wohnheim.de/
+
+### Updates
+
+- Now there is an [Instagram Page](https://www.instagram.com/kettelerwohnheim/) and [Youtube Channel](https://www.youtube.com/channel/UCWo7pZX1RGPDFpzv1ri44Sw)
+- Finally applications can be done fully digital
 
 ![The dormitory building in the heart of Darmstadt was built in 1967 and celebrated its 50th anniversary in 2018](images/wohnheim_1.jpg "The building was built in 1967 and celebrated its 50th anniversary in 2018.")
 ![A lot of paperwork also for the dormitory manager: tenancy agreements, notices, lists of residents](images/wohnheim_2.jpg "As dormitory manager, I prepared many documents for the dormitory. Tenancy agreements, notices, lists of residents, etc.")

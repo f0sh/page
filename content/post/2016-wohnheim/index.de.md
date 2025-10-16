@@ -2,7 +2,7 @@
 title: Studentenwohnheim Emanuel-von-Ketteler e.V.
 description: Seit 2014 lebe ich im Studentenwohnheim Emanuel-von-Ketteler, in dem 43 Studentinnen und Studenten verschiedener Herkunft, Religionszugehörigkeiten, Fachrichtungen und Interessen miteinander leben.
 date: 2016-04-01T20:46:33+08:00
-lastmod: 2019-05-01T20:46:33+08:00
+lastmod: 2025-02-01T20:46:33+08:00
 draft: false
 image: images/wohnheim_1.jpg
 slug: emanuel-von-ketteler
@@ -30,6 +30,11 @@ Einige Projekte, die ich in diesem Wohnheim umsetzen konnte waren:
 - Einrichtung und Pflege des Social Media Auftritts
 
 Weitere Informationen unter https://www.ketteler-wohnheim.de/
+
+### Updates
+
+- Inzwischen gibt es eine [Instagram Seite](https://www.instagram.com/kettelerwohnheim/) und einen [Youtube Kanal](https://www.youtube.com/channel/UCWo7pZX1RGPDFpzv1ri44Sw)
+- Endlich können Bewerbungen auch vollständig digital eingereicht werden
 
 ![Das Wohnheimsgebäude im Herzen Darmstadts wurde 1967 erbaut und feierte 2018 sein 50 jähriges Jubiläum.](images/wohnheim_1.jpg "Das Haus wurde 1967 erbaut und feierte 2018 sein 50 jähriges Jubiläum.")
 ![Viel Papierkram auch für den Heimleiter: Mietverträge, Aushänge, Bewohnerlisten, etc.](images/wohnheim_2.jpg "Als Heimleiter habe ich viele Dokumente für das Wohnheim erstellt. Mietverträge, Aushänge, Bewohnerlisten, etc.")
