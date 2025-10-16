@@ -1,7 +1,8 @@
 baseurl: https://florian-staubach.de
 
 theme: "hugo-theme-stack"
-paginate: 5
+pagination:
+    pagerSize: 5
 
 languages:
     en:
