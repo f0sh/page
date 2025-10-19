@@ -39,7 +39,7 @@ The [Dow Jones Industrial Average (DJIA)](https://en.wikipedia.org/wiki/Dow_Jone
 
 As we can see, quite a few of very important market happenings can be seen here. Naming:
 
-- the start of the **World War 2** in 1929
+- the **[Great Depression](https://en.wikipedia.org/wiki/Great_Depression)** in 1929
 - the **[oil crises](https://en.wikipedia.org/wiki/1970s_energy_crisis)** in the 1970s
 - the **burst of the [dotcom bubble](https://en.wikipedia.org/wiki/Dot-com_bubble)** in the beginning of the 2000s
 - the **[financial crisis](https://en.wikipedia.org/wiki/2008_financial_crisis)** in 2007
@@ -51,7 +51,7 @@ We can now have a more insight look of how these crisis were impacting the stock
 
 {{< figure src="images/dowjones-max_drawdown.svg" title="Maximum Drawdown of All-Time-High of the Dow Jones" attr="" >}}
 
-We can see that the most severe impact to the financial market was the **beginning of world war 2** which caused the market to crash by almost 90%. All the other following crisis had an impact of "only" up to 50%. The most servere was the financal crisis with 48%. The corona pandemic and the burst of the dotcom bubble was comparable low with up to 30% draw down. Still the market always recovered. This is actually very visible if we look at the rolling yearly revenue after 10 years of investing.
+We can see that the most severe impact to the financial market was the **Great Depression in 1929** and the **beginning of world war 2** which caused the market to crash by almost 90%. All the other following crisis had an impact of "only" up to 50%. The most servere was the financal crisis with 48%. The corona pandemic and the burst of the dotcom bubble was comparable low with up to 30% draw down. Still the market always recovered. This is actually very visible if we look at the rolling yearly revenue after 10 years of investing.
 
 #### The long run is positive
 

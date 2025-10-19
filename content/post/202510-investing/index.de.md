@@ -39,7 +39,7 @@ Der [Dow Jones Industrial Average (DJIA)](https://de.wikipedia.org/wiki/Dow_Jone
 
 Wie wir sehen können, lassen sich hier einige sehr wichtige Marktereignisse erkennen. Zu nennen sind:
 
-- der Beginn des **Zweiten Weltkriegs** im Jahr 1929
+- die **[Weltwirtschaftskrise](https://de.wikipedia.org/wiki/Weltwirtschaftskrise)** im Jahr 1929
 - die **[Ölkrise](https://de.wikipedia.org/wiki/%C3%96lpreiskrise)** in den 1970er Jahren
 - das **Platzen der [Dotcom-Blase](https://de.wikipedia.org/wiki/Dotcom-Blase)** zu Beginn der 2000er Jahre
 - die **[Finanzkrise](https://de.wikipedia.org/wiki/Weltfinanzkrise_2007%E2%80%932008)** im Jahr 2007
@@ -51,7 +51,7 @@ Wir können nun einen genaueren Einblick darin gewinnen, wie sich diese Krisen a
 
 {{< figure src="images/dowjones-max_drawdown.svg" title="Maximaler Rückgang gegenüber dem Allzeithoch des Dow Jones" attr="" >}}
 
-Wir sehen, dass die schwerwiegendsten Auswirkungen auf den Finanzmarkt durch den **Beginn des Zweiten Weltkriegs** verursacht wurden, der zu einem Einbruch des Marktes um fast 90 % führte. Es dauert 25 Jahre, bis dieser Verlust wieder ausgeglichen werden konnte. Alle anderen folgenden Krisen hatten „nur” Auswirkungen von bis zu 50 %. Am schwerwiegendsten war die Finanzkrise mit 48 %. Die Corona-Pandemie und das Platzen der Dotcom-Blase waren mit einem Rückgang von bis zu 30 % vergleichsweise gering. Dennoch erholte sich der Markt immer wieder. Dies wird besonders deutlich, wenn wir uns die rollierenden Jahreserträge nach 10 Jahren Investition ansehen.
+Wir sehen, dass die schwerwiegendsten Auswirkungen auf den Finanzmarkt durch die **Weltwirtschaftskrise in 1929** und der **Beginn des Zweiten Weltkriegs** verursacht wurden, der zu einem Einbruch des Marktes um fast 90 % führte. Es dauert 25 Jahre, bis dieser Verlust wieder ausgeglichen werden konnte. Alle anderen folgenden Krisen hatten „nur” Auswirkungen von bis zu 50 %. Am schwerwiegendsten war die Finanzkrise mit 48 %. Die Corona-Pandemie und das Platzen der Dotcom-Blase waren mit einem Rückgang von bis zu 30 % vergleichsweise gering. Dennoch erholte sich der Markt immer wieder. Dies wird besonders deutlich, wenn wir uns die rollierenden Jahreserträge nach 10 Jahren Investition ansehen.
 
 #### Langfristig ist die Entwicklung positiv
 
